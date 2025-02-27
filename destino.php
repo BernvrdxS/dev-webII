@@ -30,7 +30,7 @@
 
         <p style="text-align: center; margin-top: 20px;">
             <a href="index.php">
-                Retornar ao formulário!!!!
+                Retornar ao formulário
             </a>
         </p>
     </div>
