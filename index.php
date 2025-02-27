@@ -25,10 +25,9 @@
             <button type="submit">Enviar</button>
         </form>
 
-        <!-- Link para enviar requisição por GET -->
         <p style="text-align: center; margin-top: 20px;">
             <a href="destino.php">
-                Visualizar requisição por GET
+                Visualizar requisição
             </a>
         </p>
     </div>
