@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dados Recebidos</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="container">
         <h1>Dados Recebidos</h1>
@@ -25,6 +27,13 @@
             <h2>Informações do Servidor:</h2>
             <pre><?php print_r($_SERVER); ?></pre>
         </div>
+
+        <p style="text-align: center; margin-top: 20px;">
+            <a href="index.php">
+                Retornar ao formulário
+            </a>
+        </p>
     </div>
 </body>
+
 </html>

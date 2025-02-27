@@ -28,7 +28,7 @@
         <!-- Link para enviar requisição por GET -->
         <p style="text-align: center; margin-top: 20px;">
             <a href="destino.php">
-                Enviar requisição por GET
+                Visualizar requisição por GET
             </a>
         </p>
     </div>
